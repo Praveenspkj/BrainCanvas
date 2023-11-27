@@ -3,7 +3,7 @@
 ### Cloning the repository
 
 ```shell
-git clone https://github.com/AntonioErdeljac/notion-clone-tutorial.git
+git clone https://github.com/Praveenspkj/notion-clone
 ```
 
 ### Install packages
