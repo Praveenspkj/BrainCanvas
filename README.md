@@ -30,7 +30,7 @@ EDGE_STORE_SECRET_KEY=
 ### Setup Convex
 
 ```shell
-npx convex dev
+npx convex dev -->should be running as backend
 
 ```
 
